@@ -215,4 +215,4 @@ MIT License
 - [Slay the Spire](https://www.megacrit.com/) by Mega Crit Games
 - [ModTheSpire](https://github.com/kiooeht/ModTheSpire)
 - [BaseMod](https://github.com/daviscook477/BaseMod)
-- [MCPTheSpire](../MCPTheSpire/) for game control integration
+- [MCPTheSpire](https://github.com/ifree/MCPTheSpire) for game control integration
