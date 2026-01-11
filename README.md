@@ -15,7 +15,7 @@ LLM-powered AI assistant mod for Slay the Spire.
 - Slay the Spire
 - [ModTheSpire](https://github.com/kiooeht/ModTheSpire)
 - [BaseMod](https://github.com/daviscook477/BaseMod)
-- [MCPTheSpire](../MCPTheSpire/) (optional, for autonomous play mode)
+- [MCPTheSpire](https://github.com/ifree/MCPTheSpire) (optional, for autonomous play mode)
 - Java 8+
 - Maven 3.x
 
