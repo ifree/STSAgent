@@ -1,0 +1,20 @@
+# Build output
+target/
+*.jar
+!src/main/resources/**/*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Maven
+dependency-reduced-pom.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
